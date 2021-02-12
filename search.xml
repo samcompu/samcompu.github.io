@@ -64,7 +64,7 @@
     <link href="http://samcompu.github.io/2021/02/12/HelloHexo/"/>
     <id>http://samcompu.github.io/2021/02/12/HelloHexo/</id>
     <published>2021-02-12T11:10:06.000Z</published>
-    <updated>2021-02-12T11:12:40.846Z</updated>
+    <updated>2021-02-12T12:21:51.651Z</updated>
     
     <content type="html"><![CDATA[<h2 id="常用-Hexo-命令"><a href="#常用-Hexo-命令" class="headerlink" title="常用 Hexo 命令"></a>常用 Hexo 命令</h2><p>npm install hexo -g #安装Hexo<br>npm update hexo -g #升级<br>hexo init #初始化博客<br>hexo n “我的博客” == hexo new “我的博客” #新建文章<br>hexo g == hexo generate #生成<br>hexo s == hexo server #启动服务预览<br>hexo d == hexo deploy #部署<br>hexo server #Hexo会监视文件变动并自动更新，无须重启服务器<br>hexo server -s #静态模式<br>hexo server -p 5000 #更改端口<br>hexo server -i 192.168.1.1 #自定义 IP<br>hexo clean #清除缓存，若是网页正常情况下可以忽略这条命令</p>]]></content>
     
